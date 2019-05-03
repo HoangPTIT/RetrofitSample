@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitSample</string>
+    <string name="find">Tìm kiếm</string>
+    <string name="result_search">Kết quả tìm thấy</string>
+</resources>

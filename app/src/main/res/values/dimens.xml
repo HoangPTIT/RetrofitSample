@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+
+    <integer name="line_1">1</integer>
+</resources>
