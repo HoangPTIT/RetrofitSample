@@ -10,5 +10,5 @@ class User(
 
 class Users(
     @SerializedName("employeeList")
-    var usersData: List<User>? = null
+    var usersData: ArrayList<User> = ArrayList()
 )
